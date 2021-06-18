@@ -1,0 +1,114 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Anoia Shopping</string>
+
+    <!-- Screen Strings -->
+    <string-array name="bens">
+        <item>Selecciona el teu tipus de negoci …</item>
+        <!--Bens-->
+        <item>Informàtica</item>
+        <item>Moda</item>
+        <item>Electrodomèstics</item>
+        <item>Concessionari</item>
+        <item>Llibreria</item>
+        <item>Papereria</item>
+        <item>Mecànic</item>
+        <item>Esports</item>
+        <item>Joieria</item>
+        <item>Carnisseria</item>
+        <item>Peixateria</item>
+        <item>Fruiteria</item>
+        <item>Precuinats</item>
+        <item>Farmàcia</item>
+        <item>Productes naturals</item>
+        <item>Forn de pà</item>
+        <item>Pastisseria</item>
+
+        <!--Serveis-->
+        <item>Perruqueria</item>
+        <item>Centre d\'Estética</item>
+        <item>Bufet</item>
+        <item>Restaurant</item>
+        <item>Viatges</item>
+        <item>Fisioterapia</item>
+        <item>Gimnàs</item>
+
+        <item>Altres …</item>
+    </string-array>
+
+    <string name="logIn">Iniciar Sessió</string>
+    <string name="logIn2">INICIAR SESSIÓ</string>
+    <string name="OkLogIn">Inici Correcte, Benvingut</string>
+    <string name="FailLogIn">ERROR! Email i/o contrassenya incorrectes</string>
+    <string name="logo">Logotip</string>
+    <string name="singIn"><u>Registrar-se</u></string>
+    <string name="singInButton">Registrar-se</string>
+    <string name="singInTop">REGISTRE</string>
+    <string name="username">Nom d\'Usuari</string>
+    <string name="username2">Nom d\'Usuari o Email</string>
+    <string name="password">Contrassenya</string>
+    <string name="passwordRepeat">Repetir Contrassenya</string>
+    <string name="firstName">Nom</string>
+    <string name="lastName">Cognom</string>
+    <string name="email">Correu Electrònic</string>
+    <string name="conditions">Al clicar, acceptes els termes i condicions d\'ús</string>
+    <string name="forgotPassword"><u>Has olvidat la contrassenya?</u></string>
+    <string name="welcome">BENVINGUT!!<br />GRÀCIES PER UTILITZAR LA NOSTRA PLATAFORMA</string>
+    <string name="settings">Configuració</string>
+
+    <string name="update">Canviar foto</string>
+    <string name="actualize">Actualitzar compte</string>
+    <string name="delete">Eliminar compte</string>
+
+    <string name="logOut">Tancar Sessió</string>
+    <string name="editProfile">Editar perfil</string>
+
+    <string name="searchUser">Buscar Usuari</string>
+    <string name="search">Buscar</string>
+
+    <!-- Error Strings-->
+
+    <string name="emptyUsername">Escriu un Nom d\'Usuari</string>
+    <string name="wrongUsername">Nom d\'Usuari incorrecte. El Nom d\'Usuari només pot tenir majúscules, minúscules, guions i guions baixos</string>
+
+    <string name="emptyFirstName">Escriu el teu Nom</string>
+    <string name="wrongFirstName">Nom incorrecte. El Nom només pot tenir majúscules i minúscules</string>
+
+    <string name="emptyLastName">Escriu el teu Cognom</string>
+    <string name="wrongLastName">Cognom incorrecte. El Cognom només pot tenir majúscules i minúscules</string>
+
+    <string name="emptyEmail">Escriu el teu Correu Electrònic</string>
+    <string name="wrongEmail">Comprobi que ha escrit bé el seu correu</string>
+
+    <string name="emptyPassword">Escriu una Contrassenya</string>
+    <string name="wrongPassword">Contrassenya incorrecte. La Contrassenya ha de ser mínim 8 caràcters de llarg, ha de tenir mínim una majúscula, una minúscula, un número i algun caràcter especial.</string>
+    <string name="samePassword">Les Contrassenyes han de coincidir</string>
+
+    <string name="noError">Camp Correcte</string>
+
+    <string name="textview1">TextView</string>
+    <string name="textview">TextView</string>
+    <string name="botiga_negoci">Botiga/Negoci</string>
+    <string name="consumidor">Consumidor</string>
+    <string name="todo">TODO</string>
+    <string name="tipus_de_botiga">TIPUS DE BOTIGA</string>
+    <string name="definicio_botiga">definicio_botiga</string>
+    <string name="applogotipo">App Logotipo</string>
+
+    <string name="accept">Accept</string>
+
+    <string name="actualizar">Actualizar</string>
+    <string name="definici_botiga">DEFINICIÓ BOTIGA</string>
+    <string name="insertar_foto">INSERTAR FOTO</string>
+    <string name="nom_botiga">Nom Botiga</string>
+    <string name="web_negoci_si_en_teniu">Web negoci (si en teniu)</string>
+    <string name="tipus_de_negoci">Tipus de Negoci</string>
+    <string name="definicio_del_que_ofereixes">Definicio del que ofereixes</string>
+    <string name="crear_negoci">CREAR NEGOCI</string>
+    <string name="instagram">Instagram</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nom_empresa">Nom Empresa</string>
+    <string name="definici_botiga1">Definició botiga</string>
+</resources>

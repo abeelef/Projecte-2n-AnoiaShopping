@@ -14,13 +14,11 @@ Anoia Shopping és un projecte creat per l'Abel, l'Héctor, la Clara i el Joan, 
 
 ## Integrants
 
-**[Abel Esteban Ferrer](https://github.com/abeelef)** -> Responsable de l'assignatura d'Especificació i Anàlisi de Sistemes Interactius
+**[Abel Esteban Ferrer](https://github.com/abeelef)** -> Responsable de l'especificació i anàlisis de Sistemes
 
-**[Héctor Flecha Tamarit](https://github.com/HFlecha86)** -> Responsable de l'assignatura d'Innovació a les TIC
+**[Héctor Flecha Tamarit](https://github.com/HFlecha86)** -> Responsable del Redactat
 
-**[Clara Jiménez Sánchez](https://github.com/clarajsanchez)** -> Responsable de l'assignatura d'experiència d'Usuari
-
-**[Joan Francesc Pedro García](https://github.com/Soc-Un-Zombi)** -> Responsable de l'assignatura d'Aplicacions per a Dispositius Mòbils
+**[Joan Francesc Pedro García](https://github.com/Soc-Un-Zombi)** -> Responsable d'Aplicacions per a Dispositius Mòbils
 
 
 ## Estructura principal
